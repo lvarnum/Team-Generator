@@ -1,0 +1,40 @@
+body {
+    background-image: url("https://download.hipwallpaper.com/desktop/1600/900/84/95/mx195U.jpg");
+    font-family: 'Poppins', sans-serif;;
+}
+
+.team-heading {
+    background-color: teal;
+    padding: 15px;
+}
+
+.team-heading h1 {
+    color: darkslategray;
+    background-color: wheat;
+    padding: 5px;
+}
+
+.team-area {
+    background-color: rgb(245, 222, 179, .75);
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.employee-card {
+    width: 349px;
+    margin: 10px;
+}
+
+.card-header {
+    background-color: teal;
+    color: white;
+}
+
+.card-body {
+    background-color: wheat;
+    border: solid teal 2px;
+}
+
+.list-group {
+    color: darkslategray;
+}
